@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500&display=swap');
+#anchor1:hover
+{
+  background-color: #F0D9FF;
+  border-radius:12px;
+  color:#035397;
+}
+.colourparagraph
+{
+    color: #610094;
+    font-family: 'Playball', cursive;
+    font-size: 23px;
+}
+.images1
+{
+  height:120px;
+  width:130px;
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='red' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='red' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+.imageheights
+{
+  height:140px;
+}
+.listclasses
+{
+  font-family: 'Noto Serif JP', serif;
+  font-size: 15px;
+}

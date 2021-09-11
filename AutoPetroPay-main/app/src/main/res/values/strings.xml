@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Paytm App UI</string>
+
+    <string name="bottom_navigation_item_title_1">Home</string>
+    <string name="bottom_navigation_item_title_2">Mall</string>
+    <string name="bottom_navigation_item_title_3">Bank</string>
+
+    <string name="drawer_navigation_item_title_1">My Orders</string>
+    <string name="drawer_navigation_item_title_2">My Passbook</string>
+    <string name="drawer_navigation_item_title_3">Payment Remainder</string>
+    <string name="drawer_navigation_item_title_4">My Credit Score</string>
+    <string name="drawer_navigation_item_title_5">My Favourite Stores</string>
+    <string name="drawer_navigation_item_title_6">My Loyalty Cards</string>
+
+    <string name="drawer_navigation_header_text_view_text_1">Ujjwal Maity</string>
+    <string name="drawer_navigation_header_text_view_text_2">9564557783</string>
+    <string name="drawer_navigation_header_image_contentDescription_1">Profile Photo</string>
+    <string name="drawer_navigation_header_image_contentDescription_2">OR Code</string>
+    <string name="drawer_navigation_header_image_contentDescription_3">Arrow</string>
+
+    <string name="navigation_drawer_open">Open Drawer Navigation</string>
+    <string name="navigation_drawer_close">Close Drawer Navigation</string>
+
+    <string name="fragment_bank_text_1">Login to Paytm Payments Bank</string>
+    <string name="fragment_bank_text_2">Bank Saving Account</string>
+    <string name="fragment_bank_text_3">Registered Mobile Number</string>
+    <string name="fragment_bank_text_4">+91 9564557783</string>
+    <string name="fragment_bank_text_5">Enter Password</string>
+    <string name="fragment_bank_text_6">Login Securely</string>
+    <string name="fragment_bank_text_7">Forgot Passcode?</string>
+
+    <string name="fragment_home_text_0">Watches, Sungalsses at Flat 50% Cashback</string>
+    <string name="fragment_home_text_1">Movie Tickets</string>
+    <string name="fragment_home_text_2">Mobile\nPrepaid</string>
+    <string name="fragment_home_text_3">Electricity</string>
+    <string name="fragment_home_text_4">Google Play</string>
+    <string name="fragment_home_text_5">Vir Das</string>
+    <string name="fragment_home_text_6">Freebies\nInside</string>
+    <string name="fragment_home_text_7">Train Tickets</string>
+    <string name="fragment_home_text_8">Mobile\nPostpaid</string>
+    <string name="fragment_home_text_9">Cable Tv</string>
+    <string name="fragment_home_text_10">Toys and Kinds\nFashion</string>
+    <string name="fragment_home_text_11">Food Delivery</string>
+    <string name="fragment_home_text_12">More</string>
+    <string name="fragment_home_text_13">Pay</string>
+    <string name="fragment_home_text_14">UPI Money\nTransfer</string>
+    <string name="fragment_home_text_15">Passbook</string>
+    <string name="fragment_home_text_16">Paytm\nPostpaid</string>
+    <string name="fragment_home_text_17">Add Money</string>
+    <string name="fragment_home_text_18">Favourite\nStores</string>
+    <string name="fragment_home_text_19">Accept\nPayment</string>
+
+    <string name="fragment_mall_text_1">Top Shopping Offers</string>
+</resources>

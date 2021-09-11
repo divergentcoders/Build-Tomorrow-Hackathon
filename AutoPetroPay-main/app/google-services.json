@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945384100747",
+    "project_id": "fast-oil-1",
+    "storage_bucket": "fast-oil-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945384100747:android:48fd3f8441f64f217e958e",
+        "android_client_info": {
+          "package_name": "com.example.fastoil2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945384100747-mbuqltqo8kd5dcu9p6l9t60psgfhbels.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt9IoP3wMzbzIRDCYSwKWR0CfJ4PG3eCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945384100747-mbuqltqo8kd5dcu9p6l9t60psgfhbels.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
